@@ -24,11 +24,8 @@ Features:
 - Counts how many times the user rolled the dice.
 
 
-
 ###  Version 3: Multiple Dice Roller with Sum
 **File:** `v3_multiple_dice_sum.py`
-
-
 
 Features:
 - Roll multiple dice.
@@ -37,7 +34,6 @@ Features:
 - Tracks the number of game rounds played.
 - Validates the number of dice entered.
 
----
 
 ###  Version 4: Dice Roller with History
 **File:** `v4_dice_roller_history.py`
@@ -48,8 +44,6 @@ Features:
 - Displays all previous rolls when exiting.
 - Tracks total rounds played.
 - Uses a dictionary to maintain roll history.
-
-
 
 ## Python Concepts Covered
 
@@ -62,7 +56,6 @@ Features:
 - Random Number Generation
 - Data Validation
 - Basic Project Development
-
 
 ##  Learning Purpose
 
@@ -82,4 +75,4 @@ Sum of dice = 12
 
 Created as a Python learning project to practice programming fundamentals and problem-solving skills.
 
-If you found this project helpful, feel free to ⭐ star the repository and contribute improvements!
+If you found this project helpful, feel free to star the repository and contribute improvements!
