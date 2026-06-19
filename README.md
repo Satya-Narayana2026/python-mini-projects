@@ -64,14 +64,11 @@ Features:
 - Basic Project Development
 
 
-## 🎯 Learning Purpose
+##  Learning Purpose
 
 This project is designed for beginners who want to learn Python through a simple and practical project. Each version introduces new concepts and improvements, making it easy to understand how projects evolve over time.
 
----
-
 ##  Example Output
-
 
 Roll the Dice (y/n): y
 Enter the no of dice want to roll: 3
