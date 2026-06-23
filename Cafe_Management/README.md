@@ -3,7 +3,7 @@
 A beginner-friendly Python project that simulates a cafe ordering system. This project was developed step-by-step by adding new features in each version.
 
 
-##📌 Features
+## 📌 Features
 
 - Display cafe menu
 - Take customer orders
@@ -13,7 +13,7 @@ A beginner-friendly Python project that simulates a cafe ordering system. This p
 - Track ordered items
 - Generate order summary
 
- ##📂 Project Versions
+ ## 📂 Project Versions
 
  ### 1. basic_cafe_order.py
 
