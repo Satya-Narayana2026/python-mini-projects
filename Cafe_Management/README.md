@@ -16,24 +16,28 @@ A beginner-friendly Python project that simulates a cafe ordering system. This p
  📂 Project Versions
 
  1. basic_cafe_order.py
+
 Features:
 - Display menu
 - Order a single item
 - Calculate bill amount
 
 2. multi_order_cafe.py
+
 Features:
 - Order multiple items
 - Uses loop for continuous ordering
 - Calculates total bill
 
 3. quantity_enabled_cafe.py
+
 Features:
 - Quantity support
 - Calculates item price based on quantity
 - Multiple item ordering
 
 4. cafe_order_management.py
+
 Features:
 - Multiple item ordering
 - Quantity support
