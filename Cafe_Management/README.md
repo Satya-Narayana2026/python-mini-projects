@@ -16,8 +16,7 @@ A beginner-friendly Python project that simulates a cafe ordering system. This p
  📂 Project Versions
 
  1. basic_cafe_order.py
-
-Features:
+ Features:
 - Display menu
 - Order a single item
 - Calculate bill amount
