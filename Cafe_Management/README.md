@@ -1,9 +1,9 @@
- ☕ Cafe Ordering System (Python)
+ # Cafe Ordering System (Python)
 
 A beginner-friendly Python project that simulates a cafe ordering system. This project was developed step-by-step by adding new features in each version.
 
 
-📌 Features
+##📌 Features
 
 - Display cafe menu
 - Take customer orders
@@ -13,31 +13,32 @@ A beginner-friendly Python project that simulates a cafe ordering system. This p
 - Track ordered items
 - Generate order summary
 
- 📂 Project Versions
+ ##📂 Project Versions
 
- 1. basic_cafe_order.py
- Features:
+ ### 1. basic_cafe_order.py
+
+#### Features:
 - Display menu
 - Order a single item
 - Calculate bill amount
 
-2. multi_order_cafe.py
+### 2. multi_order_cafe.py
 
-Features:
+#### Features:
 - Order multiple items
 - Uses loop for continuous ordering
 - Calculates total bill
 
-3. quantity_enabled_cafe.py
+### 3. quantity_enabled_cafe.py
 
-Features:
+#### Features:
 - Quantity support
 - Calculates item price based on quantity
 - Multiple item ordering
 
-4. cafe_order_management.py
+### 4. cafe_order_management.py
 
-Features:
+#### Features:
 - Multiple item ordering
 - Quantity support
 - Tracks ordered items
@@ -45,7 +46,7 @@ Features:
 - Calculates final bill
 
 
-📸 Sample Output
+## 📸 Sample Output
 
 Welcome To Our Cafe
 
@@ -74,7 +75,7 @@ Thank You, Visit Again 😍
 
 
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project helped in understanding:
 
